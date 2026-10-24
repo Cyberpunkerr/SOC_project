@@ -147,6 +147,8 @@ IP-адреса в этом отчёте являются учебными пр�
 [Посмотреть репозиторий на GitHub](https://github.com/Cyberpunkerr/SOC_project)
 
 ## Результат расследования
-incident-screenshots/incident-completed(1).png
-incident-screenshots/incident-completed(2).png
-incident-screenshots/incident-completed(3).png
+![Скриншот 1 — анализ алертов](incident-screenshots/incident-completed%281%29.png)
+
+![Скриншот 2 — расследование](incident-screenshots/incident-completed%282%29.png)
+
+![Скриншот 3 — итоговый результат](incident-screenshots/incident-completed%283%29.png)
