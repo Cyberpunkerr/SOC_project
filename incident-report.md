@@ -145,3 +145,8 @@ IP-адреса в этом отчёте являются учебными пр�
 [Открыть учебный SOC-тренажёр](https://cyberpunkerr.github.io/SOC_project/)
 
 [Посмотреть репозиторий на GitHub](https://github.com/Cyberpunkerr/SOC_project)
+
+## Результат расследования
+incident-screenshots/incident-completed(1).png
+incident-screenshots/incident-completed(2).png
+incident-screenshots/incident-completed(3).png
